@@ -11,4 +11,4 @@ Status do que está acontecendo no repositorio
 comando: git status
 
 Enviar os os dados para GitHub
-git push origin master
+git push origin main
