@@ -1,0 +1,14 @@
+iniciar o git bash
+comando: git init
+
+Adcionar repositorio
+comando git add *
+
+Adcionar um Commit (foto do que criamos)
+comando: git commit -m "<<<novo do commit>>
+
+Status do que está acontecendo no repositorio
+comando: git status
+
+Enviar os os dados para GitHub
+git push origin master
